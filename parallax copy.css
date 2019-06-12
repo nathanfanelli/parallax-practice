@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	font-size: 575%;
+	color: #4A4444;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	margin: 45% 0;
+}
+h2{
+	text-align: center;
+	font-size: 275%;
+	color: #F5F5F5;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+}
+
+/*-- Start Parallax --*/
+.parallax{
+	background: url("http://www.photos-public-domain.com/wp-content/uploads/2012/05/black-brick-wall-texture.jpg") repeat fixed;
+}
+.parallax-inner{
+	padding-top: 15%;
+	padding-bottom: 15%;
+}
+/*-- End Parallax --*/
+
